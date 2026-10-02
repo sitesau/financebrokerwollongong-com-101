@@ -1,0 +1,19 @@
+{
+  "wheel_id": 330,
+  "structure": "umbrella",
+  "slug": "financebrokerwollongong-com-101",
+  "project": "finance-broker-wollongong-comparison-701c26e80defa184e5036fbddf",
+  "parent_t1_ref": "financebrokerwollongong-com-150",
+  "node_role": "feeder",
+  "money_target": "financebrokerwollongong.com.au",
+  "primary_kw": "finance broker wollongong comparison",
+  "intended_url": "https://aumedia.neocities.org/finance-broker-wollongong-comparison-701c26e80defa184e5036fbddf/",
+  "writeback_nonce": "d450662633ad5493",
+  "links": [
+    {
+      "target_url": "http://finance-broker-wollongong-769ca70ac698b1581ee1deae915c77174ed7b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "finance broker wollongong",
+      "rel": "follow"
+    }
+  ]
+}
